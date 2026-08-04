@@ -1,6 +1,6 @@
 # Profile Finder
 
-# Screen shots 
+## Screenshots 
 <img width="1310" height="620" alt="image" src="https://github.com/user-attachments/assets/17681743-b909-44d6-a3ed-3140dee95579" />
 
 <img width="1324" height="627" alt="image" src="https://github.com/user-attachments/assets/3688f31c-6ff1-456f-b4d4-bda102d5203c" />
